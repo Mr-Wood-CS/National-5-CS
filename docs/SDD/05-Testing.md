@@ -1,4 +1,12 @@
-# Testing
+# Explanation
+
+Testing is something we as programmers do all the time. 
+
+When you change a program, you run it to check if it works the way you expected. 
+
+For National 5, we put it into a more formal process.
+
+## Expected Outcome
 
 !!! info "What you Need to Know"
 
@@ -6,10 +14,5 @@
 
     You must be able to describe and identify syntax, execution, and logic errors.
 
-#### Explanation
 
-Testing is something we as programmers do all the time. 
 
-When you change a program, you run it to check if it works the way you expected. 
-
-For National 5, we put it into a more formal process.
