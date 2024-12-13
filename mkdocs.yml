@@ -3,11 +3,11 @@ nav:
     - Home: 'index.md'
     - Unit 1 - Software Design and Development:
       - SDD/index.md
-      - Development Methodologies: 'SDD/01-Development-Methodologies.md'
-      - Analysis: 'SDD/02-Analysis.md'
-      - Design: 'SDD/03-Design.md'
+      - Development Methodologies: 'SDD/1.0-Development-Methodologies.md'
+      - Analysis: 'SDD/2.0-Analysis.md'
+      - Design: 'SDD/3.0-Design.md'
       - Software Implementation:
-          - Explanation: 'SDD/04-Software-Implementation.md'
+          - Explanation: 'SDD/4.0-Software-Implementation.md'
           - Input and Output: 'SDD/4.1-Input-and-Output.md'
           - Variables and Data Types: 'SDD/4.2-Variables-and-Data-Types.md'
           - Simple Conditional Statements: 'SDD/4.3-Simple-Conditional-Statements.md'
@@ -16,7 +16,7 @@ nav:
           - Conditional Loops (while): 'SDD/4.6-Conditional-Loops-(while).md'
           - Pre-defined Functions: 'SDD/4.7-Pre-defined-Functions.md'
       - Testing:
-          - Explanation: 'SDD/05-Testing.md'        
+          - Explanation: 'SDD/5.0-Testing.md'        
           - Normal, Extreme and Exceptional Test Data: 'SDD/5.1-Normal-Extreme-and-Exceptional-Test-Data.md'
     - Unit 2 - Computer Systems:
       - CS/index.md
