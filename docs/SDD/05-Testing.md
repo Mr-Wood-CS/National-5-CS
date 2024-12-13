@@ -6,7 +6,7 @@
 
     You must be able to describe and identify syntax, execution, and logic errors.
 
-### Explanation
+#### Explanation
 
 Testing is something we as programmers do all the time. 
 
@@ -14,7 +14,7 @@ When you change a program, you run it to check if it works the way you expected.
 
 For National 5, we put it into a more formal process.
 
-##
+## Normal, Extreme and Exceptional Test Data
 
 When we test a program, we use test data. You enter the test data as the inputs to the program. The data should try to capture a range of different scenarios - don’t just test the program with one piece of data.
 
