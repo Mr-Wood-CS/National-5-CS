@@ -8,7 +8,7 @@ nav:
       - Design: 'SDD/03-Design.md'
       - Software Implementation: 'SDD/04-Software-Implementation.md'
       - Testing:
-          - Testing: 'SDD/05-Testing.md'        
+          - Explanation: 'SDD/05-Testing.md'        
           - Normal, Extreme and Exceptional Test Data: 'SDD/5.1-Normal-Extreme-and-Exceptional-Test-Data.md'
     - Unit 2 - Software Implementation:
       - SI/index.md
