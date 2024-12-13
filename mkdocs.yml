@@ -21,8 +21,9 @@ nav:
     - Unit 3 - Computer Systems:
       - CS/index.md
     - Unit 4 - Database Design and Development:
-      - DDD/index.md    markdown_extensions:
-      
+      - DDD/index.md   
+
+markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
