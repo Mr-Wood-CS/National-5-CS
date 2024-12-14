@@ -20,7 +20,12 @@ nav:
           - Normal, Extreme and Exceptional Test Data: 'SDD/5.1-Normal-Extreme-and-Exceptional-Test-Data.md'
           - Types of Errors: 'SDD/5.2-Types-of-Errors.md'
       - Evaluation:
-          - Explanantion: 'SDD/6.0-Evaluation.md'    
+          - Explanantion: 'SDD/6.0-Evaluation.md'
+          - Fitness for Purpose: 'SDD/6.1-Fitness-for-Purpose.md'
+          - Efficient use of Coding Constructs: 'SDD/6.2-Efficient-use-of-Coding-Constructs.md'
+          - Robustness: 'SDD/6.3-Robustness.md'
+          - Readability: 'SDD/6.4-Readability.md'
+          - Evaluation - Summary: 'SDD/6.5-Summary-Evaluation.md'
     - Unit 2 - Computer Systems:
       - CS/index.md
     - Unit 3 - Database Design and Development:
