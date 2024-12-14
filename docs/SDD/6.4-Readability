@@ -16,8 +16,19 @@ The computer ignores them when translating the program.
 
 I always use internal commentary in the examples I give you, and you’re expected to do the same. 
 
-!!! example @Example of Internal Commentary in Python:
+!!! example "Example of Internal Commentary in Python"
 
+        ``` python linenums="1"      
+        # This is an internal comment
+        # The computer ignores these lines
+        ```
+##### Meaningful identifiers
 
-# This is an internal comment
-# The computer ignores these lines
+Sometimes also called meaningful variable names. 
+
+When you look at your program, do the variable names help you to understand it? If so, you’ve probably used meaningful names.
+
+In short, don’t call your variables things like x or k. 
+
+Give them more suitable names like age, password, multiplier - whatever! Although the computer ignores the names of variables, you gain marks for using names that make the program easier for humans to understand.
+
