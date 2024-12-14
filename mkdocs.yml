@@ -18,6 +18,7 @@ nav:
       - Testing:
           - Explanation: 'SDD/5.0-Testing.md'        
           - Normal, Extreme and Exceptional Test Data: 'SDD/5.1-Normal-Extreme-and-Exceptional-Test-Data.md'
+          - Types of Errors: 'SDD/5.2-Types-of-Errors.md'
     - Unit 2 - Computer Systems:
       - CS/index.md
     - Unit 3 - Database Design and Development:
