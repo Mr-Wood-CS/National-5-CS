@@ -4,7 +4,9 @@ nav:
     - Unit 1 - Software Design and Development:
       - SDD/index.md
       - Development Methodologies: 'SDD/1.0-Development-Methodologies.md'
-      - Analysis: 'SDD/2.0-Analysis.md'
+      - Analysis:     
+          - Analysis: 'SDD/2.0-Analysis.md'
+          - Functional Requirements: 'SDD/2.1-Functional-Requirements.md'
       - Design: 'SDD/3.0-Design.md'
       - Software Implementation:
           - Explanation: 'SDD/4.0-Software-Implementation.md'
