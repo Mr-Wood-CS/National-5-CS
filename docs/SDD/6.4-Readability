@@ -32,3 +32,24 @@ In short, don’t call your variables things like x or k.
 
 Give them more suitable names like age, password, multiplier - whatever! Although the computer ignores the names of variables, you gain marks for using names that make the program easier for humans to understand.
 
+!!! example
+
+    === "Not Meaningful"
+    
+        ``` python linenums="1"      
+        p = input(“What is your age?”)
+        x = input(“What is your name?”)
+        
+        print(“Hello”, x)
+        print(“You are”, p, “years old.”)
+         ```
+    
+    === "Meaningful"
+    
+        ``` python linenums="1"      
+        age = input(“What is your age?”)
+        name = input(“What is your name?”)
+
+        print(“Hello”, name)
+        print(“You are”, age, “years old.”)
+        ```
