@@ -25,7 +25,7 @@ nav:
           - Efficient use of Coding Constructs: 'SDD/6.2-Efficient-use-of-Coding-Constructs.md'
           - Robustness: 'SDD/6.3-Robustness.md'
           - Readability: 'SDD/6.4-Readability.md'
-          - Evaluation - Summary: 'SDD/6.5-Summary-Evaluation.md'
+          - Evaluation Summary: 'SDD/6.5-Summary-Evaluation.md'
     - Unit 2 - Computer Systems:
       - CS/index.md
     - Unit 3 - Database Design and Development:
