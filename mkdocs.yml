@@ -4,7 +4,9 @@ nav:
     - Unit 1 - Software Design and Development:
       - SDD/index.md
       - Development Methodologies: 'SDD/1.0-Development-Methodologies.md'
-      - Analysis: 'SDD/2.0-Analysis.md'
+      - Analysis:     
+          - Analysis: 'SDD/2.0-Analysis.md'
+          - Functional Requirements: 'SDD/2.1-Functional-Requirements.md'
       - Design: 'SDD/3.0-Design.md'
       - Software Implementation:
           - Explanation: 'SDD/4.0-Software-Implementation.md'
@@ -18,6 +20,14 @@ nav:
       - Testing:
           - Explanation: 'SDD/5.0-Testing.md'        
           - Normal, Extreme and Exceptional Test Data: 'SDD/5.1-Normal-Extreme-and-Exceptional-Test-Data.md'
+          - Types of Errors: 'SDD/5.2-Types-of-Errors.md'
+      - Evaluation:
+          - Explanantion: 'SDD/6.0-Evaluation.md'
+          - Fitness for Purpose: 'SDD/6.1-Fitness-for-Purpose.md'
+          - Efficient use of Coding Constructs: 'SDD/6.2-Efficient-use-of-Coding-Constructs.md'
+          - Robustness: 'SDD/6.3-Robustness.md'
+          - Readability: 'SDD/6.4-Readability.md'
+          - Evaluation Summary: 'SDD/6.5-Summary-Evaluation.md'
     - Unit 2 - Computer Systems:
       - CS/index.md
     - Unit 3 - Database Design and Development:
@@ -79,4 +89,3 @@ theme:
     - navigation.tabs.sticky
     - navigation.top
     - navigation.indexes 
-    - navigation.expand
