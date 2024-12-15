@@ -13,7 +13,7 @@ nav:
           - Flowcharts: 'SDD/3.3-Flowcharts.md'
           - Pseudocode: 'SDD/3.4-Pseudocode.md'
           - Designing a User Interface: 'SDD/3.5-Designing-a-User-Interface.md'
-          - Identfying Data Types and Structures: 'SDD/3.5-Identfying-Data-Types-and-Structures.md'
+          - Identfying Data Types and Structures: 'SDD/3.6-Identfying-Data-Types-and-Structures.md'
       - Software Implementation:
           - Explanation: 'SDD/4.0-Software-Implementation.md'
           - Input and Output: 'SDD/4.1-Input-and-Output.md'
