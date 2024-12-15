@@ -9,11 +9,11 @@ nav:
           - Functional Requirements: 'SDD/2.1-Functional-Requirements.md'
       - Program Design:
           - Explanation: 'SDD/3.0-Design.md'
-          - Structure Diagrams: 'SDD/3.1-Structure-Diagrams.md'
+          - Identifying Data Types and Structures: 'SDD/3.1-Identifying-Data-Types-and-Structures.md'
+          - Structure Diagrams: 'SDD/3.2-Structure-Diagrams.md'
           - Flowcharts: 'SDD/3.3-Flowcharts.md'
           - Pseudocode: 'SDD/3.4-Pseudocode.md'
           - Designing a User Interface: 'SDD/3.5-Designing-a-User-Interface.md'
-          - Identfying Data Types and Structures: 'SDD/3.6-Identfying-Data-Types-and-Structures.md'
       - Software Implementation:
           - Explanation: 'SDD/4.0-Software-Implementation.md'
           - Input and Output: 'SDD/4.1-Input-and-Output.md'
