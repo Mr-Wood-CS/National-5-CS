@@ -7,7 +7,7 @@ nav:
       - Analysis:     
           - Analysis: 'SDD/2.0-Analysis.md'
           - Functional Requirements: 'SDD/2.1-Functional-Requirements.md'
-      - Design:
+      - Program Design:
           - Explanation: 'SDD/3.0-Design.md'
           - Structure Diagrams: 'SDD/3.1-Structure-Diagrams.md'
           - Flowcharts: 'SDD/3.3-Flowcharts.md'
