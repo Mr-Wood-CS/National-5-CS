@@ -22,7 +22,9 @@ nav:
           - Complex Conditional Statements: 'SDD/4.4-Complex-Conditional-Statements.md'
           - Fixed Loops (for): 'SDD/4.5-Fixed-Loops-(for).md'
           - Conditional Loops (while): 'SDD/4.6-Conditional-Loops-(while).md'
-          - Pre-defined Functions: 'SDD/4.7-Pre-defined-Functions.md'
+          - Random (Pre-defined Function): 'SDD/4.7-Random.md'
+          - Length (Pre-defined Function): 'SDD/4.8-Length.md'
+          - Round (Pre-defined Function):  'SDD/4.9-Round.md'
       - Testing:
           - Explanation: 'SDD/5.0-Testing.md'        
           - Normal, Extreme and Exceptional Test Data: 'SDD/5.1-Normal-Extreme-and-Exceptional-Test-Data.md'
