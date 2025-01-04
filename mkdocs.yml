@@ -25,9 +25,10 @@ nav:
           - Random (Pre-defined Function): 'SDD/4.7-Random.md'
           - Length (Pre-defined Function): 'SDD/4.8-Length.md'
           - Round (Pre-defined Function):  'SDD/4.9-Round.md'
-          - Input Validation (Standard Algorithms):  'SDD/4.10-Input-Validation.md'
-          - Running Total Within a Loop (Standard Algorithms):  'SDD/4.11-Running-Total-Within-a-Loop.md'
-          - Traversing a 1-D array (Standard Algorithms):  'SDD/4.12-Traversing-a-1d-Array.md'
+          - Arrays: SDD/4.10-Arrays.md'
+          - Traversing a 1-D array (Standard Algorithms):  'SDD/4.11-Traversing-a-1d-Array.md'
+          - Running Total Within a Loop (Standard Algorithms):  'SDD/4.12-Running-Total-Within-a-Loop.md'
+          - Input Validation (Standard Algorithms):  'SDD/4.13-Input-Validation.md'
       - Testing:
           - Explanation: 'SDD/5.0-Testing.md'        
           - Normal, Extreme and Exceptional Test Data: 'SDD/5.1-Normal-Extreme-and-Exceptional-Test-Data.md'
