@@ -43,8 +43,13 @@ nav:
     - Unit 2 - Computer Systems:
       - CS/index.md
     - Unit 3 - Database Design and Development:
-      - DDD/index.md   
-
+      - DDD/index.md
+      - Analysis:
+        - End User Requirements: 'DDD/1.1-End-User-Requirements.md'
+        - Functional Requirements: 'DDD/1.2-Functional-Requirements.md'
+        - General Data Protection Regulation: 'DDD/1.3-General-Data-Protection-Regulation.md'
+      - Database Design:
+        - Entities and Attributes: 'DDD/2.1-Entities-and-Attributes.md'
 markdown_extensions:
   - admonition
   - pymdownx.details
