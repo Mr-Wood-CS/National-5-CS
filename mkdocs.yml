@@ -1,7 +1,7 @@
 site_name: National 5 Computer Science
 nav:
     - Home: 'index.md'
-    - Unit 1 - Software Design and Development:
+    - Software Design and Development:
       - SDD/index.md
       - Development Methodologies: 'SDD/1.0-Development-Methodologies.md'
       - Analysis:     
@@ -16,19 +16,6 @@ nav:
           - Designing a User Interface: 'SDD/3.5-Designing-a-User-Interface.md'
       - Software Implementation:
           - Explanation: 'SDD/4.0-Software-Implementation.md'
-          - Input and Output: 'SDD/4.1-Input-and-Output.md'
-          - Variables and Data Types: 'SDD/4.2-Variables-and-Data-Types.md'
-          - Simple Conditional Statements: 'SDD/4.3-Simple-Conditional-Statements.md'
-          - Complex Conditional Statements: 'SDD/4.4-Complex-Conditional-Statements.md'
-          - Fixed Loops (for): 'SDD/4.5-Fixed-Loops-(for).md'
-          - Conditional Loops (while): 'SDD/4.6-Conditional-Loops-(while).md'
-          - Random (Pre-defined Function): 'SDD/4.7-Random.md'
-          - Length (Pre-defined Function): 'SDD/4.8-Length.md'
-          - Round (Pre-defined Function):  'SDD/4.9-Round.md'
-          - Arrays: 'SDD/4.10-Arrays.md'
-          - Traversing a 1-D array (Standard Algorithms):  'SDD/4.11-Traversing-a-1d-Array.md'
-          - Running Total Within a Loop (Standard Algorithms):  'SDD/4.12-Running-Total-Within-a-Loop.md'
-          - Input Validation (Standard Algorithms):  'SDD/4.13-Input-Validation.md'
       - Testing:
           - Explanation: 'SDD/5.0-Testing.md'        
           - Normal, Extreme and Exceptional Test Data: 'SDD/5.1-Normal-Extreme-and-Exceptional-Test-Data.md'
@@ -40,7 +27,28 @@ nav:
           - Robustness: 'SDD/6.3-Robustness.md'
           - Readability: 'SDD/6.4-Readability.md'
           - Evaluation Summary: 'SDD/6.5-Summary-Evaluation.md'
-    - Unit 2 - Computer Systems:
+    - Programming:
+        - Input and Output: 'SDD/4.1-Input-and-Output.md'
+        - Variables and Data Types: 'SDD/4.2-Variables-and-Data-Types.md'
+        - Simple Conditional Statements: 'SDD/4.3-Simple-Conditional-Statements.md'
+        - Complex Conditional Statements: 'SDD/4.4-Complex-Conditional-Statements.md'
+        - Fixed Loops (for): 'SDD/4.5-Fixed-Loops-(for).md'
+        - Conditional Loops (while): 'SDD/4.6-Conditional-Loops-(while).md'
+        - Random (Pre-defined Function): 'SDD/4.7-Random.md'
+        - Length (Pre-defined Function): 'SDD/4.8-Length.md'
+        - Round (Pre-defined Function):  'SDD/4.9-Round.md'
+        - Arrays:
+          - Explanation: 'SDD/10-Arrays-Explanation.md'
+          - Initialising an Array: 'SDD/10.1-Initialising-an-Array.md'
+          - Accessing Elements in an Array: 'SDD/10.2-Accessing-Elements-in-an-Array.md'
+          - Changing the Values in an Array: 'SDD/10.3-Changing-the-Values-in-an-Array.md'
+          - Appending to an Array: 'SDD/10.4-Appending-to-an-Array.md'
+          - Example: 'SDD/10.5-Example.md'
+        - Standard Algorithms:
+          - Traversing a 1-D array:  'SDD/4.11-Traversing-a-1d-Array.md'
+          - Running Total Within a Loop:  'SDD/4.12-Running-Total-Within-a-Loop.md'
+          - Input Validation:  'SDD/4.13-Input-Validation.md'
+    - Data Representation:
       - CS/index.md
     - Unit 3 - Database Design and Development:
       - DDD/index.md
