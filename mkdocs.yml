@@ -50,7 +50,7 @@ nav:
           - Input Validation:  'SDD/4.13-Input-Validation.md'
     - Data Representation:
       - CS/index.md
-    - Unit 3 - Database Design and Development:
+    - Database Design and Development:
       - DDD/index.md
       - Analysis:
         - End User Requirements: 'DDD/1.1-End-User-Requirements.md'
