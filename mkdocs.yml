@@ -59,6 +59,7 @@ nav:
       - Database Design:
         - Entities and Attributes: 'DDD/2.1-Entities-and-Attributes.md'
         - Primary and Foreign Keys: 'DDD/2.2-Primary-and-Foreign-Keys.md'
+        - Databaser Relationships: 'DDD/2.6-Entity-Relationship-Diagrams.md'
 markdown_extensions:
   - admonition
   - pymdownx.details
