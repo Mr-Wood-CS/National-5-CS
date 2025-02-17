@@ -52,14 +52,18 @@ nav:
       - CS/index.md
     - Database Design and Development:
       - DDD/index.md
+      - Relational Databases: 'DDD/2.1-Entities-and-Attributes.md'
       - Analysis:
         - End User Requirements: 'DDD/1.1-End-User-Requirements.md'
         - Functional Requirements: 'DDD/1.2-Functional-Requirements.md'
         - General Data Protection Regulation: 'DDD/1.3-General-Data-Protection-Regulation.md'
       - Database Design:
-        - Entities and Attributes: 'DDD/2.1-Entities-and-Attributes.md'
-        - Primary and Foreign Keys: 'DDD/2.2-Primary-and-Foreign-Keys.md'
-        - Databaser Relationships: 'DDD/2.6-Entity-Relationship-Diagrams.md'
+        - Database Relationships: 'DDD/2.6-Entity-Relationship-Diagrams.md'
+        - Data Dictionaries: 'DDD/2.4-Data-Dictionaries.md'
+      - SQL Implementation:
+        - SQL Select Operations: 'DDD/3.1-SQL-Select.md'
+        - SQL Insert Operations: 'DDD/3.4-SQL-Insert.md'
+        - SQL Update Operations: 'DDD/3.3-SQL-Update.md'
 markdown_extensions:
   - admonition
   - pymdownx.details
