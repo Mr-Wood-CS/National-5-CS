@@ -64,6 +64,8 @@ nav:
         - SQL Select Operations: 'DDD/3.1-SQL-Select.md'
         - SQL Insert Operations: 'DDD/3.4-SQL-Insert.md'
         - SQL Update Operations: 'DDD/3.3-SQL-Update.md'
+        - SQL Delete Operations: 'DDD/3.2-SQL-Delete.md'
+        - SQL Equi-Join Operations: 'DDD/3.5-SQL-Equi-Joins.md'
 markdown_extensions:
   - admonition
   - pymdownx.details
