@@ -60,11 +60,10 @@ nav:
       - Database Design:
         - Database Relationships: 'DDD/2.6-Entity-Relationship-Diagrams.md'
         - Data Dictionaries: 'DDD/2.4-Data-Dictionaries.md'
+        - Query Design: 'DDD/2.7-Query-Design.md'
       - SQL Implementation:
         - SQL Select Operations: 'DDD/3.1-SQL-Select.md'
-        - SQL Insert Operations: 'DDD/3.4-SQL-Insert.md'
-        - SQL Update Operations: 'DDD/3.3-SQL-Update.md'
-        - SQL Delete Operations: 'DDD/3.2-SQL-Delete.md'
+        - SQL Insert,Update & Delete Operations: 'DDD/3.2-SQL-Insert.md'
         - SQL Equi-Join Operations: 'DDD/3.5-SQL-Equi-Joins.md'
 markdown_extensions:
   - admonition
