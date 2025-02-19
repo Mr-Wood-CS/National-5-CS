@@ -52,19 +52,23 @@ nav:
       - CS/index.md
     - Database Design and Development:
       - DDD/index.md
-      - Relational Databases: 'DDD/2.1-Entities-and-Attributes.md'
+      - Relational Databases: 'DDD/1.1-Relational-Databases.md'
       - Analysis:
-        - End User Requirements: 'DDD/1.1-End-User-Requirements.md'
-        - Functional Requirements: 'DDD/1.2-Functional-Requirements.md'
-        - General Data Protection Regulation: 'DDD/1.3-General-Data-Protection-Regulation.md'
-      - Database Design:
-        - Database Relationships: 'DDD/2.6-Entity-Relationship-Diagrams.md'
-        - Data Dictionaries: 'DDD/2.4-Data-Dictionaries.md'
-        - Query Design: 'DDD/2.7-Query-Design.md'
+        - End User Requirements: 'DDD/2.1-End-User-Requirements.md'
+        - Functional Requirements: 'DDD/2.2-Functional-Requirements.md'
+        - General Data Protection Regulation: 'DDD/2.3-General-Data-Protection-Regulation.md'
+      - Design:
+        - Database Relationships: 'DDD/3.1-DB-Relationships.md'
+        - Data Dictionaries: 'DDD/3.2-Data-Dictionaries.md'
+        - Query Design: 'DDD/3.3-Query-Design.md'
       - SQL Implementation:
-        - SQL Select Operations: 'DDD/3.1-SQL-Select.md'
-        - SQL Insert,Update & Delete Operations: 'DDD/3.2-SQL-Insert.md'
-        - SQL Equi-Join Operations: 'DDD/3.5-SQL-Equi-Joins.md'
+        - SQL Select Operations: 'DDD/4.1-SQL-Select.md'
+        - SQL Insert,Update & Delete Operations: 'DDD/4.2-SQL-Insert.md'
+        - SQL Equi-Join Operations: 'DDD/4.3-SQL-Equi-Joins.md'
+      - Testing & Evaluation:
+        - Testing: 'DDD/5.1-DB-Testing.md'
+        - Evaluation: 'DDD/5.2-DB-Evaluation.md'
+        
 markdown_extensions:
   - admonition
   - pymdownx.details
