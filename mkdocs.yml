@@ -60,8 +60,8 @@ nav:
       - Design:
         - Database Relationships: 'DDD/3.1-DB-Relationships.md'
         - Data Dictionaries: 'DDD/3.2-Data-Dictionaries.md'
-        - Query Design: 'DDD/3.3-Query-Design.md'
       - SQL Implementation:
+        - Query Design: 'DDD/3.3-Query-Design.md'
         - SQL Select Operations: 'DDD/4.1-SQL-Select.md'
         - SQL Insert,Update & Delete Operations: 'DDD/4.2-SQL-Insert.md'
         - SQL Equi-Join Operations: 'DDD/4.3-SQL-Equi-Joins.md'
