@@ -48,8 +48,16 @@ nav:
           - Traversing a 1-D array:  'SDD/4.11-Traversing-a-1d-Array.md'
           - Running Total Within a Loop:  'SDD/4.12-Running-Total-Within-a-Loop.md'
           - Input Validation:  'SDD/4.13-Input-Validation.md'
-    - Data Representation:
-      - CS/index.md
+    - Computer Systems:
+      - Data Reprsentation:
+        - Introduction: 'CS/1.0_Data_Representation_Intro.md'
+        - Number Representation: 'CS/1.1_Number_Representation.md'
+        - Floating Point Representation: 'CS/1.2_Number_Types.md'
+        - Storing Characters: 'CS/1.3_Representing_Text.md'
+        - Storing Graphics: 'CS/1.4_Storing_Graphics.md'
+        
+      - Computer Architecture: 'CS/2.0_Computer_Architecture.md'
+      - Security Precautions: 'CS/3.0_Security_Precautions.md'
     - Database Design and Development:
       - DDD/index.md
       - Relational Databases: 'DDD/1.1-Relational-Databases.md'
